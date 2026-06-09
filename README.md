@@ -13,22 +13,22 @@ Interested in:
 ---
 
 ## Security Research
+* CVE-2026-5038 — Credited as a Co-finder of a Multer Denial of Service vulnerability.
 
-* **CVE-2026-5038** — Credited as a **Co-finder** of a Multer Denial of Service vulnerability.
+---
 
-* **HackerOne** — Received a bounty for a valid vulnerability report through responsible disclosure.
+## Bug Bounty
+* Automattic / WPScan — Received a bug bounty for a valid vulnerability report.
 
 ---
 
 ## OSS Contributions
-
-* **Fugit** — Reported a cron parser bug causing uncaught `ZeroDivisionError` exceptions and validated the upstream fix.
+* Fugit — Reported a cron parser bug causing uncaught ZeroDivisionError exceptions and validated the upstream fix.
 
 ---
 
 ## Activities
-
-* **Hacklipse** — Web Security Team Member at Incheon National University.
+* Hacklipse — Web Part Member of the cybersecurity club at Incheon National University.
 
 ---
 
