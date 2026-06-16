@@ -13,7 +13,7 @@ Interested in:
 ---
 
 ## Security Research
-* CVE-2026-5038 — Credited as a Co-finder of a Multer Denial of Service vulnerability.
+* CVE-2026-5038 — Credited as a Co-finder of a Multer Denial of Service vulnerability.[Advisory](https://github.com/expressjs/multer/security/advisories/GHSA-3p4h-7m6x-2hcm)
 
 ---
 
