@@ -1,4 +1,4 @@
-# Hi, I'm Jebeen Lee 👋
+# Hi, I'm Jebeen Lee.
 
 Undergraduate student aspiring to become a **Web Security Researcher** and **Penetration Tester**.
 
