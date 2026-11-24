@@ -8,8 +8,6 @@ My main interests are **authentication and authorization**, **trust boundaries**
 
 In the long run I'm aiming for a career in **security research**, **penetration testing**, or **red teaming**. I'd also like to build on what I'm doing in open source security now and widen that scope toward **supply chain security**.
 
----
-
 ## CVEs & GHSAs
 
 ### Visual Studio Code — Microsoft (MSRC)
@@ -38,24 +36,17 @@ In the long run I'm aiming for a career in **security research**, **penetration 
 | [CVE-2026-55216](https://github.com/logto-io/logto/security/advisories/GHSA-gc94-xqg8-v8r7) | Logto | Account takeover via `email_verified` bypass in social account linking | **Sole reporter** | High |
 | [CVE-2026-5038](https://github.com/expressjs/multer/security/advisories/GHSA-3p4h-7m6x-2hcm) | Multer | Denial of service via incomplete cleanup of aborted uploads | Finder | Moderate |
 
----
-
 ## Penetration Testing
 
 * Incheon National University
 * Incheon City Public Institution
-
----
 
 ## Coordinated Disclosure
 
 * **Microsoft (MSRC)** — ongoing coordinated disclosure on Visual Studio Code.
 * **KISA — Government CVD/VDP pilot program** — participant.
 
-Additional vulnerability reports are currently under coordinated disclosure
-and are not listed here.
-
----
+Additional vulnerability reports are currently under coordinated disclosure and are not listed here.
 
 ## Bug Bounty & Special Mention
 
@@ -63,16 +54,10 @@ and are not listed here.
 * **Microsoft (MSRC)** — listed on [Special Mention](https://msrc.microsoft.com/special-mention).
 * **Automattic / WPScan** — bounty awarded for a valid vulnerability report.
 
----
-
 ## OSS Contributions
 
-* **Fugit** — reported a cron parser bug causing uncaught `ZeroDivisionError`
-  exceptions, and validated the upstream fix.
-
----
+* **Fugit** — reported a cron parser bug causing uncaught `ZeroDivisionError` exceptions, and validated the upstream fix.
 
 ## Activities
 
-* **Hacklipse** — Member of the Web Team at Incheon National University's
-  cybersecurity club.
+* **Hacklipse** — Member of the Web Team at Incheon National University's cybersecurity club.
